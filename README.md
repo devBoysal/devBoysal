@@ -1,4 +1,4 @@
-### Hey! 👋
+### Hey! :wave:
 
 Have a browse, here are some of my personal and professional repositories.
 
