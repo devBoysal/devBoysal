@@ -1,4 +1,4 @@
-### Hey! :wave::skin-tone-4:
+### Hey! :wave:
 
 Have a browse, here are some of my personal and professional repositories.
 
